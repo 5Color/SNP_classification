@@ -55,5 +55,8 @@ le의 inverse_trainsform이라는 인코딩된걸 원래대로 A,B,C처럼 원�
 그 아는정도에 따라 전처리를 얼마나 기깔나게 하느냐에 따라 결과가 달라지는것이다.
 이번에 해당 데이터를 통해 염기서열을 더 공부할 수 있었고, AI모델링과 전처리에 더 한발자국 나아갈 수 있었던 것 같다.
 
+<img width="241" height="104" alt="image" src="https://github.com/user-attachments/assets/4f5359bb-ff27-4816-8333-9d38a267e6e4" />
+
+
 
 
