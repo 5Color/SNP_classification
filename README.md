@@ -1,5 +1,7 @@
 # SNP_classification
 
+<img width="1274" height="705" alt="image" src="https://github.com/user-attachments/assets/57e21082-3595-4086-b598-75be3cde2fcd" />
+
 유전체 정보를 이용하여 품종을 분류하는 AI 모델을 학습하여 이미 끝난 경진대회에 제출해보았다.
 다음 소개, 설명하는 코드는 main_2버전이다.
 
